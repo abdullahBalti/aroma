@@ -1,6 +1,6 @@
-/*@import "tabelet.css";*/
-/*@import "mobstyle.css" screen and (max-width: 768px);*/
 
+
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;600&display=swap");
 * {
   list-style: none;
   margin: 0px;
@@ -9,10 +9,8 @@
 }
 body {
   font-family: Roboto, sans-serif;
-  background-color: lightblue;
 }
 
-@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;600&display=swap");
 
 .container {
   width: 82%;
